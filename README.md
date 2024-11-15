@@ -1,7 +1,7 @@
 # MLens
 ## Dataset introduction:
 MLens is a lens 3D data obtained by scanning in a real factory environment using OCT technology. It is also the first open dataset that applies OCT technology to the field of transparent lens defect detection. All data has been retained in its original scanned form without any processing (resulting in a very large dataset :)). Given that most defects are typically very small in scale, it is essential to design robust data processing algorithms that effectively minimize redundant noise while retaining critical defect points. This necessity underlines our decision to provide the original, unprocessed data, despite the resultant dataset size. Our aim is to empower users with a comprehensive understanding of the original data, facilitating the development of innovative data processing algorithms tailored to their specific needs.
-## Mlens structure  
+## Mlens example structure  
 <pre>
 ├── Mlens
 │   ├── ProductA
@@ -16,8 +16,8 @@ MLens is a lens 3D data obtained by scanning in a real factory environment using
 │   │   │── G
 ├── README.md
 </pre>
-## Download:
-`wget https://huggingface.co/datasets/micro-i-mvrdd/Mlens/resolve/main/README.md`
+## Mlens public 
+All the raw data is very large, so it will be made public after the admission.
 
 ## Pre-process:
 The following outlines our data preprocessing methods. It is important to note that the current approaches may not be optimal, and we encourage everyone to start from the original data to propose more suitable methods.
