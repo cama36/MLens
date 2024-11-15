@@ -17,7 +17,7 @@ MLens is a lens 3D data obtained by scanning in a real factory environment using
 ├── README.md
 </pre>
 ## Mlens public 
-All the raw data is very large, so it will be made public after the admission.
+The entire data set will be made public after cvpr review.
 
 ## Pre-process:
 The following outlines our data preprocessing methods. It is important to note that the current approaches may not be optimal, and we encourage everyone to start from the original data to propose more suitable methods.
