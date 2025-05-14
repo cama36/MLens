@@ -14,7 +14,40 @@ MLens is a lens 3D data obtained by scanning in a real factory environment using
 │   │   │   │── Data
 │   │   │   │── Annotation_B.pkl #annotation label of product B.
 │   │   │── G
+│   ├── ProductC  #supplementary
+│   │   │── NG
+│   │   │   │── Data
+│   │   │   │── Annotation_C.pkl #annotation label of product C.
+│   │   │── G
+│   ├── ProductD  #supplementary
+│   │   │── NG
+│   │   │   │── Data
+│   │   │   │── Annotation_D.pkl #annotation label of product D.
+│   │   │── G
+│   ├── ProductE  #supplementary
+│   │   │── NG
+│   │   │   │── Data
+│   │   │   │── Annotation_E.pkl #annotation label of product E.
+│   │   │── G
+│   ├── ProductF  #supplementary
+│   │   │── NG
+│   │   │   │── Data
+│   │   │   │── Annotation_F.pkl #annotation label of product F.
+│   │   │── G
+│   ├── ProductG  #supplementary
+│   │   │── NG
+│   │   │   │── Data
+│   │   │   │── Annotation_G.pkl #annotation label of product G.
+│   │   │── G
+│   ├── ProductH  #supplementary
+│   │   │── NG
+│   │   │   │── Data
+│   │   │   │── Annotation_H.pkl #annotation label of product H.
+│   │   │── G
 </pre>
+
+## Mlens supplementary 
+We further employed SD-OCT system to scan and annotate six different types (ProductC - ProductH) of transparent lenses within actual factory environments, thereby expanding our dataset. This supplementary collection includes 4,799 abnormal and 662 normal samples, encompassing four distinct defect types occurring in various locations. 
 
 ## Mlens example download 
 https://drive.google.com/drive/folders/1xGD1OjrYm-A4NJvrR6SlVDut_Sqz6NMZ?usp=sharing
