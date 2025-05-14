@@ -53,7 +53,7 @@ We further employed SD-OCT system to scan and annotate six different types (Prod
 https://drive.google.com/drive/folders/1xGD1OjrYm-A4NJvrR6SlVDut_Sqz6NMZ?usp=sharing
 
 ## Mlens public 
-The entire data set will be made public after review.
+The entire dataset will be made public after review.
 
 ## Pre-process:
 The following outlines our data preprocessing methods. It is important to note that the current approaches may not be optimal, and we encourage everyone to start from the original data to propose more suitable methods.
